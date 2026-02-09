@@ -91,6 +91,10 @@ Step 5: 完了
 | 5回ループ | 強制終了 |
 | 同スコア2回連続 | Gemini深掘り分析後、継続 |
 
+## AIキャラクター設定
+
+各AIのペルソナ・対話パターン・呼び出しテンプレートは [AI-CHARACTERS.md](./AI-CHARACTERS.md) を参照。
+
 ## 2PC運用ガイド
 
 複数PCで開発する場合の役割分担ルールは [WORKFLOW.md](./WORKFLOW.md) を参照。
