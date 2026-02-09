@@ -91,6 +91,15 @@ Step 5: 完了
 | 5回ループ | 強制終了 |
 | 同スコア2回連続 | Gemini深掘り分析後、継続 |
 
+## 2PC運用ガイド
+
+複数PCで開発する場合の役割分担ルールは [WORKFLOW.md](./WORKFLOW.md) を参照。
+
+| PC | 役割 | コマンド |
+|----|------|---------|
+| 開発PC | 開発 | `/dev` |
+| レビューPC | レビュー | `/review` |
+
 ## 必要環境
 
 - [Claude Code](https://claude.ai/code)
